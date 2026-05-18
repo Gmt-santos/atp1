@@ -243,7 +243,7 @@ int main(){
         int nconta;
         data data_abertura;
         float saldo;
-        int cpf[50];
+        char cpf[50];
         float limite_especial;
     }conta;
     
@@ -303,14 +303,14 @@ int main(){
                 printf("\nDigite o numero da conta: ");
                 scanf("%d",&contas[index].nconta);
                 printf("\nDigite o cpf: ");
-                scanf("%d",&cpf_query);
+                scanf(" %s",&cpf_query);
                 for(i=0;i<N;i++){
                     if(!strcmp(contas[index].cpf,cpf_query)){
                         auth_cpf=1;
                     }
                 }
                 if(auth_cpf==1){
-                    scanf(" %s",clientes[index].cpf);
+                    clientes[index].cpf=cpf_query;
                     fflush(stdin);
                     printf("\nAno,mes e dia de abertura: ");
                     scanf("%d %d %d",&contas[index].data_abertura.ano,&contas[index].data_abertura.mes,&contas[index].data_abertura.dia);
@@ -330,9 +330,30 @@ int main(){
         }else if(opt == 2){
             for(i=0;i<N;i++){
                 if(registroscli[i]==1){
-                    printf("")
+                    printf("Nome: %s\n",clientes[i].nome);
+                    printf("Sobrenome: %s\n",clientes[i].sobrenome);
+                    printf("Sexo: %c\n",clientes[i].sexo);
+                    printf("Cidade Natal: %s\n",clientes[i].cidade_natal);
+                    printf("CPF: %s\n",clientes[i].cpf);
+
+
+
                 }
             }
+        }else if(opt == 3){
+        for(i=0;i<N;i++){
+                if(registroscont[i]==1){
+                    printf("Numero da conta: %s\n",contas[i].nconta);
+                    printf("Data de abertura: %d %d %d \n",contas[i].data_abertura.dia,contas[i].data_abertura.mes,contas[i].data_abertura.ano);
+                    printf("Saldo: %.2f\n",contas[i].saldo);
+                    printf("CPF: %s\n",contas[i].cpf);
+                    printf("Limite especial: %.2f\n",contas[i].limite_especial);
+
+                }
+            }  
+        }
+        else if(opt == 4){
+            // a fazer
         }
 
     }while(opt != 12);
