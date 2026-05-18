@@ -1,0 +1,203 @@
+Python 3.14.2 Standard Library (64-bit)
+Python 3.14.2 Tcl/Tk Support (64-bit)
+Microsoft Teams Meeting Add-in for Microsoft Office
+Python 3.14.2 pip Bootstrap (64-bit)
+Python 3.14.2 Development Libraries (64-bit)
+Paradox Launcher v2
+Python 3.14.2 Documentation (64-bit)
+Python 3.14.2 Executables (64-bit)
+Python 3.14.2 Test Suite (64-bit)
+Python 3.14.2 Core Interpreter (64-bit)
+REDlauncher
+Python 3.14.2 Add to Path (64-bit)
+Arduino IDE
+Microsoft Office Professional Plus 2010
+Microsoft Office OneNote MUI (Portuguese (Brazil)) 2010
+Microsoft Office Office 32-bit Components 2010
+Microsoft Office Shared 32-bit MUI (Portuguese (Brazil)) 2010
+Microsoft Office InfoPath MUI (Portuguese (Brazil)) 2010
+Microsoft Office Access MUI (Portuguese (Brazil)) 2010
+Microsoft Office Excel MUI (Portuguese (Brazil)) 2010
+Microsoft Office PowerPoint MUI (Portuguese (Brazil)) 2010
+Microsoft Office Publisher MUI (Portuguese (Brazil)) 2010
+Microsoft Office Outlook MUI (Portuguese (Brazil)) 2010
+Microsoft Office Groove MUI (Portuguese (Brazil)) 2010
+Microsoft Office Word MUI (Portuguese (Brazil)) 2010
+Microsoft Office Proofing (Portuguese (Brazil)) 2010
+Microsoft Office Shared MUI (Portuguese (Brazil)) 2010
+Microsoft Office Proof (Portuguese (Brazil)) 2010
+Microsoft Office Proof (English) 2010
+Microsoft Office Proof (Spanish) 2010
+vs_vswebprotocolselectormsi
+Microsoft.NET.Sdk.Android.Manifest-8.0.100 (x64)
+vs_communitymsires
+NitroSense Service
+vs_minshellmsires
+Microsoft VC++ redistributables repacked.
+icecap_collection_neutral
+Microsoft ASP.NET Core 8.0.2 Shared Framework (x64)
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+vs_BlendMsi
+Microsoft .NET Framework 4.8 Targeting Pack
+Microsoft Visual C++ 2019 X86 Debug Runtime - 14.29.30157
+Microsoft .NET CoreRuntime For CoreCon
+Python 3.13.1 Development Libraries (64-bit)
+Microsoft .NET Runtime - 8.0.2 (x64)
+Microsoft.NET.Sdk.tvOS.Manifest-8.0.100 (x64)
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2005 Redistributable (x64)
+Update for Windows 10 for x64-based Systems (KB5001716)
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+vs_communitymsi
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Visual Studio Setup Configuration
+MySQL Documents
+Microsoft .NET Host FX Resolver - 8.0.2 (x86)
+Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)
+Verificação de integridade do PC Windows
+IntelliTraceProfilerProxy
+Microsoft VC++ redistributables repacked.
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211
+Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30157
+Epic Online Services
+Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)
+Pacote de Direcionamento do Microsoft .NET Framework 4.7.2 (Português (Brasil))
+User Experience Improvement Program Service
+VS Script Debugging Common
+Intel(R) Chipset Device Software
+vs_filehandler_amd64
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+vs_minshellinteropx64msi
+Intel(R) LMS
+Intel(R) Icls
+Microsoft .NET CoreRuntime SDK
+Microsoft .NET AppHost Pack - 8.0.2 (x64_x86)
+Epic Games Launcher Prerequisites (x64)
+vs_minshellsharedmsi
+ExpressVPN
+Microsoft .NET SDK 8.0.200 (x64) from Visual Studio
+MySQL Examples and Samples
+Intel(R) OEM Extension
+Microsoft .NET Framework 4.8 SDK
+Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)
+EA app
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211
+vs_vswebprotocolselectormsires
+vs_minshellinteropmsi
+Microsoft Windows Desktop Targeting Pack - 8.0.2 (x64)
+Visual C++ Library CRT Appx Resource Package
+Microsoft .NET Host - 8.0.2 (x64)
+Microsoft.NET.Sdk.macOS.Manifest-8.0.100 (x64)
+Python 3.13.1 Executables (64-bit)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523
+Windows Subsystem for Linux
+MySQL Workbench 8.0 CE
+Python 3.13.1 Documentation (64-bit)
+Microsoft Windows Desktop Runtime - 8.0.2 (x86)
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Python 3.13.1 Standard Library (64-bit)
+Visual C++ Library CRT ARM64 Appx Package
+MySQL Installer
+Microsoft ASP.NET Core 8.0.2 Targeting Pack (x86)
+Microsoft .NET Host FX Resolver - 8.0.2 (x64)
+Python 3.13.1 Core Interpreter (64-bit)
+Visual C++ Library CRT Desktop Appx Package
+HP Deskjet 3510 series Software básico do dispositivo
+windows_toolscorepkg
+Microsoft NetStandard SDK
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+Kits Configuration Installer
+vs_communityx64msi
+Care Center Service
+Microsoft .NET Framework 4 Multi-Targeting Pack
+vs_minshellinteropsharedmsi
+Python 3.13.1 Tcl/Tk Support (64-bit)
+IntelliTraceProfilerProxy
+Acer Configuration Manager
+MySQL Router 8.0
+vs_devenx64vmsi
+vcpp_crt.redist.clickonce
+vs_SQLClickOnceBootstrappermsi
+vs_tipsmsi
+Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+Microsoft .NET AppHost Pack - 8.0.2 (x64_arm64)
+Microsoft Windows Desktop Runtime - 8.0.2 (x64)
+Microsoft .NET AppHost Pack - 8.0.2 (x64)
+Microsoft.NET.Sdk.Maui.Manifest-8.0.100 (x64)
+DriverSetupUtility
+Node.js
+Acer Jumpstart
+Intel(R) Management Engine Driver
+Python 3.13.1 pip Bootstrap (64-bit)
+Microsoft Windows Desktop Targeting Pack - 8.0.2 (x86)
+Intel(R) Management Engine Components
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft TestPlatform SDK Local Feed
+Visual C++ Library CRT Appx Package
+icecap_collection_x64
+SDK do Microsoft .NET Framework 4.8 (Português (Brasil))
+vs_filehandler_x86
+Microsoft System CLR Types para SQL Server 2019
+Microsoft UniversalWindowsPlatform SDK
+Microsoft Visual Studio Setup WMI Provider
+Microsoft Visual C++ 2005 Redistributable
+vs_clickoncebootstrappermsi
+Visual C++ Library CRT Desktop Appx Package
+Universal CRT Redistributable
+Microsoft GameInput
+Microsoft .NET Targeting Pack - 8.0.2 (x86)
+vs_communitysharedmsi
+VS JIT Debugger
+icecap_collectionresourcesx64
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135
+Microsoft ASP.NET Core 8.0.2 Targeting Pack (x64)
+Python Launcher
+Quick Access Service
+Microsoft Visual C++ 2005 Redistributable
+Epic Games Launcher
+vs_CoreEditorFonts
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135
+Java(TM) SE Development Kit 21.0.2 (64-bit)
+Microsoft.NET.Sdk.iOS.Manifest-8.0.100 (x64)
+Intel(R) Management Engine Components
+vs_minshellmsi
+Entity Framework 6.2.0 Tools  for Visual Studio 2022
+Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)
+Microsoft .NET Targeting Pack - 8.0.2 (x64)
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Microsoft .NET Native SDK
+Python 3.13.1 Add to Path (64-bit)
+Dynamic Application Loader Host Interface Service
+Python 3.13.1 Test Suite (64-bit)
+Microsoft Visual Basic/C++ Runtime (x86)
+DiagnosticsHub_CollectionService
+Microsoft .NET Framework 4.7.2 Targeting Pack
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135
+Microsoft .NET 8.0 Templates 8.0.200 (x64)
+vs_githubprotocolhandlermsi
+Microsoft Update Health Tools
+Microsoft ASP.NET Core 8.0.2 Shared Framework (x86)
+Microsoft .NET Host - 8.0.2 (x86)
+Visual C++ Library CRT Desktop Appx Package
+vs_minshellx64msi
+vs_clickoncesigntoolmsi
+vs_clickoncebootstrappermsires
+Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100 (x64)
+icecap_collectionresources
+vs_devenvsharedmsi
+Visual C++ Library CRT Appx Package
+MySQL Server 8.0
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+Microsoft .NET Toolset 8.0.200 (x64)
+Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)
+Pacote IntelliSense Cumulativo do Microsoft .NET Framework para Visual Studio (Português do Brasil)
+Microsoft .NET Runtime - 8.0.2 (x86)
+vs_FileTracker_Singleton
+Pacote de Direcionamento do Microsoft .NET Framework 4.8 (Português (Brasil))
+Windows SDK AddOn
+VS Immersive Activate Helper
+Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)
